@@ -9,7 +9,7 @@ Welcome to the **House Price Prediction & Streamlit Deployment** project! Follow
 Before running code, you need to create your own personal copy of the project on GitHub and download it to your computer.
 
 ### Step 1: Fork the Repository
-1. Open your web browser and go to: [https://github.com/rabiyakulsum/House-price-prediction](https://github.com/rabiyakulsum/House-price-prediction)
+1. Open your web browser and go to: https://github.com/rabiyakulsum/HDB_price_predictor
 
 
 ### Step 2: Clone to VS Code
